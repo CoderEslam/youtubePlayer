@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.PierfrancescoSoffritti:library-sample-app-template:1.0.3@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/0664a26436ae40f1413fab81c7d2bd1a/transformed/jetified-library-sample-app-template-1.0.3/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/0664a26436ae40f1413fab81c7d2bd1a/transformed/jetified-library-sample-app-template-1.0.3/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/0664a26436ae40f1413fab81c7d2bd1a/transformed/jetified-library-sample-app-template-1.0.3/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.PierfrancescoSoffritti/library-sample-app-template/1.0.3/957fee517a3d09c450010e8221fc74fb14faac6b/library-sample-app-template-1.0.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
